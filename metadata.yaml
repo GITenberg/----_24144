@@ -1,0 +1,27 @@
+_repo: '----_24144'
+_version: 0.1.0
+alternative_title: Ying Ya Sheng Lan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ma, Huan, active 1414-1451
+    alias: 馬歡
+    gutenberg_agent_id: '26149'
+    url: http://www.gutenberg.org/2009/agents/26149
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24144'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zheng, He, 1371-1435'
+- !lcc 'DS'
+- !lcsh 'Southeast Asia -- Description and travel -- Early works to 1800'
+title: 瀛涯勝覽
+url: http://www.gutenberg.org/ebooks/24144
